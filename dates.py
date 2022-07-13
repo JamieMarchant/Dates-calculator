@@ -45,5 +45,7 @@ result_label.pack()
 
 window.mainloop()
 
+#wib
+
 
 
